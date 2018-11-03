@@ -94,7 +94,11 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 -igfxnohdmi lilucpu=10</string>
+		<string>dart=0 -igfxnohdmi debug=0x100 -v</string>
+		<key>DefaultVolume</key>
+		<string>OSx86</string>
+		<key>DefaultLoader</key>
+		<string>CoreServices</string>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>Secure</key>
@@ -273,10 +277,46 @@
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
+		<key>BiosReleaseDate</key>
+		<string>06/26/2018</string>
+		<key>BiosVendor</key>
+		<string>Apple Inc.</string>
+		<key>BiosVersion</key>
+		<string>15.16.6703.0.0,0</string>
+		<key>Board-ID</key>
+		<string>Mac-827FB448E656EC26</string>
+		<key>BoardManufacturer</key>
+		<string>Apple Inc.</string>
+		<key>BoardSerialNumber</key>
+		<string>C02808108J9JH4RUE</string>
+		<key>BoardType</key>
+		<integer>10</integer>
+		<key>ChassisAssetTag</key>
+		<string>MacBook-Aluminum</string>
+		<key>ChassisManufacturer</key>
+		<string>Apple Inc.</string>
+		<key>ChassisType</key>
+		<string>0x09</string>
+		<key>Family</key>
+		<string>MacBook Pro</string>
+		<key>FirmwareFeatures</key>
+		<string>0xFC0FE137</string>
+		<key>LocationInChassis</key>
+		<string>Part Component</string>
+		<key>Manufacturer</key>
+		<string>Apple Inc.</string>
+		<key>Mobile</key>
+		<false/>
 		<key>ProductName</key>
-		<string>iMac16,2</string>
+		<string>MacBookPro15,2</string>
+		<key>SerialNumber</key>
+		<string>C02W909WJHCD</string>
+		<key>SmUUID</key>
+		<string>2E089BF0-8704-42C7-ADEB-A3B6B73DE634</string>
 		<key>Trust</key>
 		<true/>
+		<key>Version</key>
+		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>

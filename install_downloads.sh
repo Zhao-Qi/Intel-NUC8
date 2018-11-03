@@ -23,7 +23,6 @@ sudo rm -f /System/Library/Extensions/AppleHDA.kext/Contents/Resources/*.zml.zli
 
 # install required kexts
 install_download_kexts
-install_brcmpatchram_kexts
 install_fakepciid_intel_hdmi_audio
 # install other common kexts
 install_kext _tools/kexts/XHCI-unsupported.kext

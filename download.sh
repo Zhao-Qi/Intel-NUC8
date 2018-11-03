@@ -19,12 +19,9 @@ download_rehabman os-x-fakesmc-kozlek RehabMan-FakeSMC
 download_rehabman os-x-intel-network RehabMan-IntelMausiEthernet
 download_rehabman os-x-eapd-codec-commander RehabMan-CodecCommander
 download_rehabman os-x-fake-pci-id RehabMan-FakePCIID
-download_rehabman os-x-brcmpatchram RehabMan-BrcmPatchRAM
 download_rehabman os-x-usb-inject-all RehabMan-USBInjectAll
-download_rehabman os-x-null-ethernet RehabMan-NullEthernet
 download_acidanthera Lilu acidanthera-Lilu
 download_acidanthera WhateverGreen acidanthera-WhateverGreen
-download_acidanthera AirportBrcmFixup acidanthera-AirportBrcmFixup
 download_acidanthera BT4LEContiunityFixup acidanthera-BT4LEContiunityFixup
 download_acidanthera AppleALC acidanthera-AppleALC
 cd ..
